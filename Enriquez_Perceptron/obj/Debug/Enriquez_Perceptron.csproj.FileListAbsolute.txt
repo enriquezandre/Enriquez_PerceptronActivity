@@ -1,0 +1,11 @@
+C:\Users\Andre\OneDrive\Desktop\School\CS346 - Intelligent Systems 2\Projects\Enriquez_Perceptron\Enriquez_Perceptron\bin\Debug\Enriquez_Perceptron.exe.config
+C:\Users\Andre\OneDrive\Desktop\School\CS346 - Intelligent Systems 2\Projects\Enriquez_Perceptron\Enriquez_Perceptron\bin\Debug\Enriquez_Perceptron.exe
+C:\Users\Andre\OneDrive\Desktop\School\CS346 - Intelligent Systems 2\Projects\Enriquez_Perceptron\Enriquez_Perceptron\bin\Debug\Enriquez_Perceptron.pdb
+C:\Users\Andre\OneDrive\Desktop\School\CS346 - Intelligent Systems 2\Projects\Enriquez_Perceptron\Enriquez_Perceptron\obj\Debug\Enriquez_Perceptron.csproj.AssemblyReference.cache
+C:\Users\Andre\OneDrive\Desktop\School\CS346 - Intelligent Systems 2\Projects\Enriquez_Perceptron\Enriquez_Perceptron\obj\Debug\Enriquez_Perceptron.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andre\OneDrive\Desktop\School\CS346 - Intelligent Systems 2\Projects\Enriquez_Perceptron\Enriquez_Perceptron\obj\Debug\Enriquez_Perceptron.Form1.resources
+C:\Users\Andre\OneDrive\Desktop\School\CS346 - Intelligent Systems 2\Projects\Enriquez_Perceptron\Enriquez_Perceptron\obj\Debug\Enriquez_Perceptron.Properties.Resources.resources
+C:\Users\Andre\OneDrive\Desktop\School\CS346 - Intelligent Systems 2\Projects\Enriquez_Perceptron\Enriquez_Perceptron\obj\Debug\Enriquez_Perceptron.csproj.GenerateResource.cache
+C:\Users\Andre\OneDrive\Desktop\School\CS346 - Intelligent Systems 2\Projects\Enriquez_Perceptron\Enriquez_Perceptron\obj\Debug\Enriquez_Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Desktop\School\CS346 - Intelligent Systems 2\Projects\Enriquez_Perceptron\Enriquez_Perceptron\obj\Debug\Enriquez_Perceptron.exe
+C:\Users\Andre\OneDrive\Desktop\School\CS346 - Intelligent Systems 2\Projects\Enriquez_Perceptron\Enriquez_Perceptron\obj\Debug\Enriquez_Perceptron.pdb
